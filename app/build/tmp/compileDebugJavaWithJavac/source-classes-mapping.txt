@@ -1,0 +1,40 @@
+com/example/team4_taskapp/MainActivity.java
+ com.example.team4_taskapp.MainActivity
+ com.example.team4_taskapp.MainActivity$1
+ com.example.team4_taskapp.MainActivity$LoginBtn
+com/example/team4_taskapp/HomeActivity.java
+ com.example.team4_taskapp.HomeActivity
+ com.example.team4_taskapp.HomeActivity$1
+com/example/team4_taskapp/statsFragment.java
+ com.example.team4_taskapp.statsFragment
+com/example/team4_taskapp/AllTasksListViewFragment.java
+ com.example.team4_taskapp.AllTasksListViewFragment
+ com.example.team4_taskapp.AllTasksListViewFragment$1
+com/example/team4_taskapp/NewTaskDialog.java
+ com.example.team4_taskapp.NewTaskDialog
+ com.example.team4_taskapp.NewTaskDialog$1
+ com.example.team4_taskapp.NewTaskDialog$2
+com/example/team4_taskapp/ConnectionClass.java
+ com.example.team4_taskapp.ConnectionClass
+com/example/team4_taskapp/allTasksFragment.java
+ com.example.team4_taskapp.allTasksFragment
+ com.example.team4_taskapp.allTasksFragment$1
+ com.example.team4_taskapp.allTasksFragment$1$1
+ com.example.team4_taskapp.allTasksFragment$1$2
+ com.example.team4_taskapp.allTasksFragment$2
+com/example/team4_taskapp/calendarFragment.java
+ com.example.team4_taskapp.calendarFragment
+ com.example.team4_taskapp.calendarFragment$1
+ com.example.team4_taskapp.calendarFragment$2
+ com.example.team4_taskapp.calendarFragment$2$1
+ com.example.team4_taskapp.calendarFragment$2$2
+ com.example.team4_taskapp.calendarFragment$3
+com/example/team4_taskapp/RegisterActivity.java
+ com.example.team4_taskapp.RegisterActivity
+ com.example.team4_taskapp.RegisterActivity$1
+ com.example.team4_taskapp.RegisterActivity$RegisterBtn
+com/example/team4_taskapp/CalListViewFragment.java
+ com.example.team4_taskapp.CalListViewFragment
+ com.example.team4_taskapp.CalListViewFragment$1
+com/example/team4_taskapp/BuildConfig.java
+ com.example.team4_taskapp.BuildConfig
